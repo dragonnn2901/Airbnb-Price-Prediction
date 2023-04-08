@@ -1,5 +1,11 @@
 # Machine Learning Project: Airbnb Price Prediction
 
+Contributed collaboratively by: Aishwarya Prashant Kamat, Qian(Lucy) Wu, Haridhakshini (Harisha) Subramoniapillai Ajeetha
+
+Special thanks to my teammates for the great work! It is a pleasure to complete this project together! 💗
+
+###################################################
+
 Data Source: (Inside Airbnb) http://insideairbnb.com/get-the-data/ 
 
 Code file: .ipynb document with comments.
